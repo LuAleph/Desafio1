@@ -1,0 +1,99 @@
+.cuadros{
+	border: solid black;
+	width: 20%;
+	min-height: 16em;
+	float: left;
+	margin: 2.2%;
+
+}
+
+img{
+	width: 20%;
+	height: 17em;
+	border-radius: 90%;
+	float: left;
+	margin-left: 1em;
+	display: inline;
+
+}
+
+p.uno{
+	padding-top: 4em;
+	font-size: 1em
+}
+
+p{
+	padding-left: 20em;
+	padding-right: 10em;
+
+}
+
+.contenedor{
+	text-align: justify;
+	clear: both;
+	margin-bottom: 5%; 
+}
+
+#uno{
+	background-image: url(../img/uno.gif);
+	background-size: cover;
+}
+#dos{
+	background-size: cover;
+	background-image: url(../img/dos.gif);
+}
+
+#tres{
+	background-size: cover;
+	background-image: url(../img/tres.gif);
+
+}
+#cuatro{
+	background-size: cover;
+	background-image: url(../img/cuatro.gif);
+
+}
+
+#cinco{
+	background-size: cover;
+	background-image: url(../img/cinco.gif);
+
+}
+
+#seis{
+	background-size: cover;
+	background-image: url(../img/seis.gif);
+
+}
+
+#siete{
+	background-size: cover;
+	background-image: url(../img/siete.gif);
+
+}
+
+#ocho{
+	background-size: cover;
+	background-image: url(../img/ocho.gif);
+}
+
+#nueve{
+	background-size: cover;
+	background-image: url(../img/nueve.gif);
+
+}
+
+#diez{
+	background-size: cover;
+	background-image: url(../img/diez.gif);
+}
+
+#once{
+	background-size: cover;
+	background-image: url(../img/once.gif);
+}
+
+#doce{
+	background-size: cover;
+	background-image: url(../img/doce.gif);
+}
